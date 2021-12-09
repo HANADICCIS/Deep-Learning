@@ -1,0 +1,2 @@
+# Deep-Learning
+Photos are taken to freeze the happy moments that otherwise gone. Even though time goes by, one can still evoke memories of the past by viewing them. Nonetheless, old photo prints deteriorate when kept in poor environmental condition, which causes the valuable photo content permanently damaged, So, in order to bring back memories, we need a way to restore the resolution of old photos. In this project, we will work on that.
